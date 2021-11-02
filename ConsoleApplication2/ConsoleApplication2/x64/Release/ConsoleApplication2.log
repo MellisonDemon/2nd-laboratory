@@ -1,0 +1,15 @@
+﻿  ConsoleApplication2.cpp
+c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(37): error C2374: start: переопределение; множественная инициализация
+  c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(18): note:  см. объявление "start"
+c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(39): error C2374: end: переопределение; множественная инициализация
+  c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(29): note:  см. объявление "end"
+c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(40): error C2374: sec: переопределение; множественная инициализация
+  c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(30): note:  см. объявление "sec"
+c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(40): error C2088: -: недопустимо для class
+c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(42): error C2374: start: переопределение; множественная инициализация
+  c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(18): note:  см. объявление "start"
+c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(55): error C2374: end: переопределение; множественная инициализация
+  c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(29): note:  см. объявление "end"
+c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(56): error C2374: sec: переопределение; множественная инициализация
+  c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(30): note:  см. объявление "sec"
+c:\users\надя\documents\_ учёба учёба учёба\программирование\2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(56): error C2088: -: недопустимо для class
