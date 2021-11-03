@@ -3,10 +3,12 @@
 using namespace std;
 using namespace chrono;
 
+
 int main()
 {
 	setlocale(LC_ALL, "Russian");
 	srand(time(NULL));
+	
 	//------СОЗДАНИЕ МАССИВА------//	
 	int arr[100], agg[100];
 		for (int i = 0; i < 100; i++)
